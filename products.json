@@ -1,0 +1,27 @@
+[
+    {
+      "name": "iPhone 14",
+      "brand": "Apple",
+      "description": "Latest iPhone with A15 chip",
+      "price": 999,
+      "reviews": 4.8,
+      "stock": true
+    },
+    {
+      "name": "Oppo Reno 10",
+      "brand": "Oppo",
+      "description": "Affordable Android phone",
+      "price": 399,
+      "reviews": 4.2,
+      "stock": true
+    },
+    {
+      "name": "iPhone SE",
+      "brand": "Apple",
+      "description": "Budget iPhone model",
+      "price": 499,
+      "reviews": 4.5,
+      "stock": false
+    }
+  ]
+  
